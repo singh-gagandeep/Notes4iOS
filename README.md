@@ -1,2 +1,2 @@
 # Notes4iOS
-Note Taking app for Android
+Note Taking app for iOS
